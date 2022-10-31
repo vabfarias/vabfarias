@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Victor Ataide, I am currently studying Computer Science at the Catholic University in Brasilia, I intend to be a Software  Engineer or Data Engineer.</p>
+<p align="left">Hello, my name is Victor Ataide, I am currently studying Computer Science at the Catholic University in Brasilia, I intend to be a Software  Engineer or Data Engineer and analystic Cybersecurity.</p>
 
 ###
 
