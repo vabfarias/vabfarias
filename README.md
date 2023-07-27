@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Always<br>📚 I'm currently learning: Cybersecurity<br>🎯 Goals: Become a Data Engineer or a Software Engineer.<br>🎲 Fun fact: I love music and listen music and dance</p>
+<p align="left">✨ Creating bugs since Always<br>📚 I'm currently learning: br>🎯 Goals: Become a Data Engineer or a Software Engineer.<br>🎲 Fun fact: I love music and listen music and dance</p>
 
 ###
 
